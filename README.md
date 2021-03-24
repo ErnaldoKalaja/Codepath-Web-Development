@@ -6,7 +6,7 @@ Submitted by: **Ernaldo Kalaja**
 
 Time spent: **4** hours spent in total
 
-Link to project: (insert your link here, should start with https://glitch.com...)
+Link to project: https://glitch.com/edit/#!/pre-work--memory-game?path=README.md%3A40%3A0
 
 ## Required Functionality
 
@@ -39,7 +39,7 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-https://s4.gifyu.com/images/web_mg.gif
+<img src='web_mg.gif' title='Game Walkthrough' width='' alt='Game Walkthrough' />
 
 
 ## Reflection Questions
