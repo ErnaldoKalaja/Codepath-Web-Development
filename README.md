@@ -39,7 +39,7 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-<img src='web_mg.gif' title='Game Walkthrough' width='' alt='Game Walkthrough' />
+https://s4.gifyu.com/images/web_mg.gif 
 
 
 ## Reflection Questions
